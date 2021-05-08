@@ -19,7 +19,7 @@
     "inifinite-text",
     "reel"
   ],
-  "author": "",
+  "author": "vineet",
   "license": "ISC",
   "devDependencies": {
     "@types/react": "^17.0.5",
