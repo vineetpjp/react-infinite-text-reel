@@ -1,0 +1,69 @@
+body {
+  font-family: Asap, sans-serif;
+}
+
+.big {
+  height: 110vh;
+  background-color: aqua;
+}
+
+#viewport {
+  overflow: hidden;
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
+.react-infinite-text-reel-items {
+  overflow: hidden;
+  cursor: default;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 110%;
+}
+.react-infinite-text-reel-row {
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  padding: 30px 0;
+}
+.react-infinite-text-reel-item {
+  position: relative;
+  display: inline-block;
+
+  width: 33%;
+  font-size: 60px;
+  font-weight: 400;
+  line-height: 100%;
+  letter-spacing: -0.03rm;
+}
+
+.react-infinite-text-reel-items .react-infinite-text-reel-item-stroke {
+  color: transparent;
+  text-shadow: none;
+  font-weight: 400;
+  -webkit-text-stroke: 2px rgba(0, 0, 0, 0.2);
+}
+
+.react-infinite-text-reel-item-stroke {
+  color: transparent;
+  text-shadow: none;
+  font-weight: 400;
+  -webkit-text-stroke: 2px rgba(0, 0, 0, 0.2);
+}
+
+@media only screen and (max-width: 1200px) {
+  .react-infinite-text-reel-item {
+    width: 50%;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .react-infinite-text-reel-item {
+    font-size: 37px;
+  }
+}
