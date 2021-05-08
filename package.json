@@ -1,6 +1,6 @@
 {
   "name": "react-infinite-text-reel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "customizable infinite text reel using gsap and react",
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm/index.js",
