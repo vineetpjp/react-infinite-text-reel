@@ -2,7 +2,7 @@
 
 ## _The Last Reel, Ever_
 
-## 🎉 Version 1.0.2.x is live ! 🎉
+## 🎉 Version 1.0.3.x is live ! 🎉
 
 ## Installation
 
