@@ -14,6 +14,8 @@
 
 `yarn add react-infinite-text-reel`
 
+![Example GIf](https://media.giphy.com/media/FD0vH6d9cKHou41e03/giphy.gif)
+
 ## Example app
 
 You can look for an example [here](https://github.com/vineetpjp/react-infinite-text-reel/tree/master/example)
