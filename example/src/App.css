@@ -5,6 +5,15 @@ body {
 .big {
   height: 110vh;
   background-color: aqua;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  color: transparent;
+  text-shadow: none;
+  font-weight: 400;
+  -webkit-text-stroke: 2px rgba(0, 0, 0, 0.2);
+  font-size: 10rem;
 }
 
 #viewport {

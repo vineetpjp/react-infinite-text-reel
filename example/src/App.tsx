@@ -5,14 +5,14 @@ import "./App.css";
 function App() {
   return (
     <div>
-      <div className="big" />
+      <div className="big">Scroll down</div>
       <InfiniteTextReel
         reelTexts={["Vineet"]}
         affectOnScrollArr={[true]}
         directionArr={[1]}
         duration={[30]}
       />
-      <div className="big" />
+      <div className="big">Scroll up</div>
     </div>
   );
 }
