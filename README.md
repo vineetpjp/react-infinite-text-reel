@@ -16,7 +16,8 @@
 
 ![Example GIf](https://media.giphy.com/media/FD0vH6d9cKHou41e03/giphy.gif)
 
-## Example app
+## Example app (check out on this link)
+https://react-infinite-text-reel.netlify.app/
 
 You can look for an example [here](https://github.com/vineetpjp/react-infinite-text-reel/tree/master/example)
 Make sure to install the latest version of the package before testing it out.
